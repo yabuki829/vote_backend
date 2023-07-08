@@ -1,0 +1,19 @@
+djangorestframework-simplejwt==4.6.0
+PyJWT==2.0.0
+django-cors-headers==3.4.0
+django
+djangorestframework
+djoser
+Pillow
+# pip3 install -r requirements.txt
+
+
+#renderデプロイに使う
+dj-database-url
+dj-static
+python-decouple
+django-environ
+gunicorn
+psycopg2-binary
+#静的ファイルの表示に使う
+whitenoise
